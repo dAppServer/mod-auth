@@ -1,0 +1,12 @@
+{
+  "code": "mod-auth",
+  "type": "core",
+  "name": "Authentication",
+  "install": "/",
+  "version": "0.0.0",
+  "depends": [],
+  "app": {
+    "type": "zip",
+    "url": "https://github.com/dappserver/mod-auth/releases/latest/download/mod-auth.zip"
+  }
+}
